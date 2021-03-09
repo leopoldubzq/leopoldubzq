@@ -1,12 +1,8 @@
 ### Hi there 👋
 
-<!--
-**leopoldubzq/leopoldubzq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![hello-there](https://user-images.githubusercontent.com/60520591/110441654-4c75e800-80ba-11eb-9de3-398e03348bf2.jpeg)
 
-Here are some ideas to get you started:
+I am an iOS Developer and Test Engineer who loves to learn new things.
 
-- 🔭 I’m currently working on https://github.com/leopoldubzq/QuickService
-- 🌱 I’m currently learning Swift
-- 📫 How to reach me: leopold.romanowski@gmail.com
-
--->
+- 🔭  I’m currently working on https://github.com/leopoldubzq/QuickService
+- 📫  How to reach me: leopold.romanowski@gmail.com
